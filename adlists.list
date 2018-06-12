@@ -1,35 +1,25 @@
 ##Pranav's List
 https://raw.githubusercontent.com/PranavMaddula/PiHole/master/CustomBL.txt
-
 # The below list amalgamates several lists we used previously.
 # See `https://github.com/StevenBlack/hosts` for details
 ##StevenBlack's list
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-
 ##MalwareDomains
 https://mirror1.malwaredomains.com/files/justdomains
-
 ##Cameleon
 http://sysctl.org/cameleon/hosts
-
 ##Zeustracker
 https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-
 ##Disconnect.me Tracking
 https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-
 ##Disconnect.me Ads
 https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-
 ##Hosts-file.net
 https://hosts-file.net/ad_servers.txt
-
 ##DeathByBandaid Combined Lists
 https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/Comb$
-
 ##SmokingWheels Combined List
 https://smokingwheels.github.io/Pi-hole/allhosts
-
 ##pfSense Blocking Recomendations : Level 1
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level1.netset
 https://ransomwaretracker.abuse.ch/downloads/RW_IPBL.txt
@@ -37,7 +27,6 @@ https://rules.emergingthreats.net/blockrules/compromised-ips.txt
 https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt
 http://www.abuseat.org/iotcc.txt
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/cybercrime.ipset
-
 ##pfSense Blocking Recomendations : Level 2
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level2.netset
 http://cinsscore.com/list/ci-badguys.txt
@@ -47,7 +36,6 @@ https://ransomwaretracker.abuse.ch/downloads/TC_PS_IPBL.txt
 https://ransomwaretracker.abuse.ch/downloads/TL_C2_IPBL.txt
 https://ransomwaretracker.abuse.ch/downloads/TL_PS_IPBL.txt
 https://zeustracker.abuse.ch/blocklist.php?download=badips
-
 ##pfSense Blocking Recomendations : Level 3
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level3.netset
 http://danger.rulez.sk/projects/bruteforceblocker/blist.php
@@ -55,11 +43,9 @@ http://www.openbl.org/lists/base_7days.txt
 https://lists.blocklist.de/lists/all.txt
 http://malc0de.com/bl/IP_Blacklist.txt
 https://feodotracker.abuse.ch/blocklist/?download=ipblocklist
-
 ##pfSense Blocking Recomendations : Level 4
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level4.netset
 http://www.malwaredomainlist.com/hostslist/ip.txt
-
 ##SANYALnet Block Lists
 http://sanyalnet-cloud-vps.freeddns.org/blocklist.txt
 http://sanyalnet-cloud-vps.freeddns.org/mirai-ips.txt
@@ -67,7 +53,6 @@ http://sanyalnet-cloud-vps2.freeddns.org/blocklist.txt
 http://wbri.duckdns.org/blocklist.txt
 http://yiradio.duckdns.org/blocklist.txt
 http://glewlwyd.duckdns.org/blocklist.txt
-
 ##pfSense Blocking Recomendations : General Domain BlockList
 https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt
 http://www.malware-domains.com/files/justdomains.zip
@@ -102,7 +87,6 @@ http://hosts-file.net/hfs.txt
 http://hosts-file.net/pha.txt
 http://hosts-file.net/wrz.txt
 http://raw.githubusercontent.com/michaeltrimm/hosts-blocking/master/_hosts.txt
-
 ##Firebog Lists : Suspicious
 https://hosts-file.net/grm.txt
 https://reddestdream.github.io/Projects/MinimalHosts/etc/MinimalHostsBlocker/minimalhosts
@@ -117,14 +101,12 @@ https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spam
 https://hostsfile.org/Downloads/hosts.txt
 http://someonewhocares.org/hosts/zero/hosts
 https://raw.githubusercontent.com/vokins/yhosts/master/hosts
-
 ##Firebog Lists : Advertising
 https://v.firebog.net/hosts/AdguardDNS.txt
 https://v.firebog.net/hosts/Easylist.txt
 https://raw.githubusercontent.com/CHEF-KOCH/Spotify-Ad-free/master/Spotifynulled.txt
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts;showintro=0
 https://raw.githubusercontent.com/StevenBlack/hosts/master/data/UncheckyAds/hosts
-
 ##Firebog Lists : Tracking/Telemetry
 https://v.firebog.net/hosts/Airelle-trc.txt
 https://v.firebog.net/hosts/Easyprivacy.txt
@@ -138,7 +120,6 @@ https://raw.githubusercontent.com/CHEF-KOCH/Audio-fingerprint-pages/master/Audio
 https://raw.githubusercontent.com/CHEF-KOCH/Canvas-fingerprinting-pages/master/Canvas.txt
 https://github.com/Perflyst/PiHoleBlocklist/blob/master/android-tracking.txt
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
-
 ##Firebog Lists : Malicious
 https://v.firebog.net/hosts/Airelle-hrsk.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
@@ -153,66 +134,41 @@ https://v.firebog.net/hosts/Prigent-Phishing.txt
 https://raw.githubusercontent.com/quidsup/notrack/master/malicious-sites.txt
 https://v.firebog.net/hosts/Shalla-mal.txt
 https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Risk/hosts
-
 ##Firebog Lists : Other
 https://github.com/chadmayfield/pihole-blocklists/raw/master/lists/pi_blocklist_porn_all.list
 https://raw.githubusercontent.com/chadmayfield/pihole-blocklists/master/lists/pi_blocklist_p$
 https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts
-
 ##Wally3k List
 https://github.com/deathbybandaid/wally3k-adlists.list
-
 ##?Who Knows?
 https://raw.githubusercontent.com/CamelCase11/UnifiedHosts/master/hosts.all
-
 ##YouTube Ad Blocking
 https://github.com/HenningVanRaumle/pihole-ytadblock
 https://raw.githubusercontent.com/HenningVanRaumle/pihole-ytadblock/master/ytadblock.txt
-
 ##Firebog - may break things
 https://hostsfile.mine.nu/hosts0.txt
 https://v.firebog.net/hosts/Kowabit.txt
 https://adblock.mahakala.is
-
 ##Wally3k Others
-
 ##r0ckarong
 https://gist.github.com/r0ckarong/d136976b382029f7043883bd0f024f07
 https://gist.github.com/r0ckarong/36140c95bc105ee13cdc672baa940ab0
-
 ##Linux Included pfSense Block Lists
 https://hosts-file.net/fsa.txt
 https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts_browser
 https://gist.githubusercontent.com/BBcan177/b6df57cef74e28d90acf1eec93d62d3b/raw/f0996cf5248657ada2adb396f3636be8716b99eb/MS-4
-
 ##Hobo House Lists
-https://hosts-file.net/ad_servers.txt 
-https://hosts-file.net/exp.txt 
-https://hosts-file.net/emd.txt 
-https://hosts-file.net/psh.txt 
-https://v.firebog.net/hosts/Airelle-hrsk.txt 
-https://v.firebog.net/hosts/Shalla-mal.txt 
-https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt 
-https://ransomwaretracker.abuse.ch/downloads/LY_C2_DOMBL.txt 
-https://ransomwaretracker.abuse.ch/downloads/CW_C2_DOMBL.txt 
-https://ransomwaretracker.abuse.ch/downloads/TC_C2_DOMBL.txt 
-https://ransomwaretracker.abuse.ch/downloads/TL_C2_DOMBL.txt 
-http://www.networksec.org/grabbho/block.txt 
-https://isc.sans.edu/feeds/suspiciousdomains_Medium.txt 
-http://someonewhocares.org/hosts/hosts 
-https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt 
-http://www.joewein.net/dl/bl/dom-bl.txt 
-https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/win10/spy.txt 
-https://v.firebog.net/hosts/static/lists.disconnect.meSamsungSmart.txt 
-https://gist.githubusercontent.com/anudeepND/adac7982307fec6ee23605e281a57f1a/raw/5b8582b906a9497624c3f3187a49ebc23a9cf2fb/Test.txt 
-https://raw.githubusercontent.com/StevenBlack/hosts/master/data/KADhosts/hosts 
-https://reddestdream.github.io/Projects/MinimalHosts/etc/MinimalHostsBlocker/minimalhosts 
-https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Spam/hosts 
-
+https://ransomwaretracker.abuse.ch/downloads/LY_C2_DOMBL.txt
+https://ransomwaretracker.abuse.ch/downloads/CW_C2_DOMBL.txt
+https://ransomwaretracker.abuse.ch/downloads/TC_C2_DOMBL.txt
+https://ransomwaretracker.abuse.ch/downloads/TL_C2_DOMBL.txt
+http://www.networksec.org/grabbho/block.txt
+http://www.joewein.net/dl/bl/dom-bl.txt
+https://v.firebog.net/hosts/static/lists.disconnect.meSamsungSmart.txt
+https://gist.githubusercontent.com/anudeepND/adac7982307fec6ee23605e281a57f1a/raw/5b8582b906a9497624c3f3187a49ebc23a9cf2fb/Test.txt
 ##NoTracking
 https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
 https://raw.githubusercontent.com/notracking/hosts-blocklists/master/domains.txt
-
 http://someonewhocares.org/hosts/hosts/
 https://s3.amazonaws.com/lists.disconnect.me/simple_malware.txt
 http://pgl.yoyo.org/as/serverlist.php?hostformat=hosts
@@ -257,11 +213,9 @@ https://raw.githubusercontent.com/abpvn/abpvn/master/filter/src/abpvn_general.tx
 https://raw.githubusercontent.com/szpeter80/hufilter/master/hufilter.txt
 https://easylist-downloads.adblockplus.org/advblock.txt
 https://raw.githubusercontent.com/yous/YousList/master/youslist.txt
-http://hosts-file.net/fsa.txt 
 http://rlwpx.free.fr/WPFF/hosts.htm
-https://github.com/AdguardTeam/AdguardDNS 
+https://github.com/AdguardTeam/AdguardDNS
 http://www.joewein.de/sw/bl-text.htm
-
 ##Reddit Lists
 https://raw.githubusercontent.com/TakoYachty/Gift-Card-Killer/master/giftcardkiller.txt
 https://raw.githubusercontent.com/nathanaccidentally/SystemHostsBlocker/master/hosts
@@ -272,10 +226,7 @@ http://v.firebog.net/hosts/HPHosts-ads.txt
 http://v.firebog.net/hosts/HPHosts-emd.txt
 http://v.firebog.net/hosts/HPHosts-exp.txt
 http://v.firebog.net/hosts/HPHosts-psh.txt
-http://www.joewein.net/dl/bl/dom-bl.txt
-http://www.networksec.org/grabbho/block.txt
 https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
-https://gist.githubusercontent.com/anudeepND/adac7982307fec6ee23605e281a57f1a/raw/5b8582b906a9497624c3f3187a49ebc23a9cf2fb/Test.txt
 https://github.com/StevenBlack/hosts/blob/master/extensions/fakenews/hosts
 https://github.com/StevenBlack/hosts/blob/master/extensions/gambling/hosts
 https://hosts-file.net/mmt.txt
@@ -283,9 +234,6 @@ https://hosts-file.net/pha.txt
 https://isc.sans.edu/feeds/suspiciousdomains_Medium.tx
 https://openphish.com/feed.txt
 https://pgl.yoyo.org/as/serverlist.php?showintro=0&startdate%5Byear%5D=2000
-https://ransomwaretracker.abuse.ch/downloads/CW_C2_DOMBL.txt
-https://ransomwaretracker.abuse.ch/downloads/LY_C2_DOMBL.txt
-https://ransomwaretracker.abuse.ch/downloads/TC_C2_DOMBL.txt
 https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
 https://raw.githubusercontent.com/anudeepND/blacklist/master/CoinMiner.txt
 https://raw.githubusercontent.com/chadmayfield/pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list
@@ -296,23 +244,15 @@ https://raw.githubusercontent.com/StevenBlack/hosts/master/data/SpotifyAds/hosts
 https://raw.githubusercontent.com/StevenBlack/hosts/master/data/tyzbit/hosts
 https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master
 https://v.firebog.net/hosts/static/SamsungSmart.txt
-
 #TSPPRS
 https://tspprs.com/dl/cl1
-
 #More Reddit Lists
-
-
-
 ##!!!Use With Care!!!
 http://raw.githubusercontent.com/eladkarako/hosts.eladkarako.com/master/_raw__hosts.txt
 http://mirror1.malwaredomains.com/files/immortal_domains.txt
-
 ##Tumblr Tracking
 https://gist.githubusercontent.com/ieperlingetje/fd5d73d83131a6781198195e99bf9ec7/raw
-
 ##Smart TV Tracking
-
 ##TSPPRS Block Lists
 https://tspprs.com/dl/olmd
 https://tspprs.com/dl/olcameleon
@@ -339,11 +279,9 @@ https://tspprs.com/dl/scam
 https://tspprs.com/dl/ransomware
 https://tspprs.com/dl/proxy
 https://tspprs.com/dl/tracking
-
 ##Eric-Poon Lists
 http://mirror1.malwaredomains.com/files/justdomains
 http://hosts-file.net/download/hosts.txt
-
 ##der-pcfuchs.de
 http://v.firebog.net/hosts/AdguardDNS.txt
 http://v.firebog.net/hosts/Airelle-hrsk.txt
@@ -457,7 +395,6 @@ https://v.firebog.net/hosts/Spam404.txt
 https://v.firebog.net/hosts/Vokins.txt
 https://v.firebog.net/hosts/Winhelp2002.txt
 https://v.firebog.net/hosts/ZeusTrack.txt
-
 ##Assorted Lists
 https://github.com/ozark46/pihole-list-prepend/blob/master/lists/phishing.list
 https://github.com/smokingwheels/hosts-blocklists/blob/master/domains.txt
@@ -516,7 +453,6 @@ https://smokingwheels.github.io/Pi-hole/22nov17
 https://smokingwheels.github.io/Pi-hole/23nov17
 https://winhv.com/xlimit91/xlimit91-block-list/blob/master/List.txt
 https://winhv.com/Cauchon/NSABlocklist-pi-hole-edition/blob/master/HOSTS%20(excluding%20most%20GOV%20URLs)
-
 ##ogollemon
 http://hosts-file.malwareteks.com/HOSTS.txt
 https://adblock.mahakala.is/
@@ -660,6 +596,91 @@ https://hblock.molinero.xyz/hosts
 https://jasonhill.co.uk/pfsense/ytadblock.txt
 https://gist.githubusercontent.com/shokoylele/8f4160a102480471cb946fbd800bc86a/raw/b455d23a84ad539bfb9f4c816fb1bcc2a70883a4/spotihosts.txt
 https://raw.githubusercontent.com/tomasko126/easylistczechandslovak/master/filters.txt
-https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjxlist.txt  
+https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjxlist.txt
 https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
-
+https://github.com/EnkoNeko/pie/blob/master/PiHole/misc.txt
+https://github.com/EnkoNeko/pie/blob/master/PiHole/YTblocklist.txt
+https://github.com/EnkoNeko/pie/blob/master/PiHole/SpamAndDodgy.txt
+https://github.com/EnkoNeko/pie/blob/master/PiHole/SPblocklist.txt
+https://github.com/TakoYachty/Gift-Card-Killer/blob/master/giftcardkiller.txt
+https://github.com/timocapa/pihole-list/blob/master/EtherAddressLookup
+https://github.com/sjakem/PiholeList/blob/master/list.txt
+https://github.com/kreisklasse/myPiholeBlacklist/blob/master/kkblacklist.txt
+https://github.com/MajkiIT/polish-ads-filter/blob/master/polish-pihole-filters/hostfile.txt
+https://github.com/YAMA-EDV/pihole-blacklist2/blob/master/yama_blacklist2.txt
+https://github.com/YAMA-EDV/blocklist-cryptojacking/blob/master/yama_blacklist_cryptojacking.txt
+https://github.com/YAMA-EDV/pihole-blacklist/blob/master/yama_blacklist.txt
+https://github.com/seroxo/pihole-blocklist/blob/master/blocklist-collection.txt
+https://raw.githubusercontent.com/0x000015/piholelist/master/hosts
+https://github.com/ruifigueiredo/PiHoleBlockList/blob/master/malware.txt
+https://github.com/javalogicuser/pihole/blob/master/Block%20Lists/pi_blocklist_porn_more.list
+https://github.com/rubenqs12/anuncios-pihole/blob/master/spotihosts-pihole3
+https://github.com/ahmedsajid/pihole/blob/master/adlist.txt
+https://github.com/designator854/pihole/blob/master/temp.list
+https://github.com/designator854/pihole/blob/master/2m.list
+https://github.com/borekon/aede-hosts/blob/master/lista.txt
+https://github.com/triw0lf/twitterhonies/blob/master/honies_blocklist.txt
+https://github.com/deathbybandaid/piholeparser/blob/master/Subscribable-Lists/CombinedBlacklists/DeathbybandaidList.txt
+https://github.com/deathbybandaid/piholeparser/blob/master/Subscribable-Lists/CombinedBlacklists/CombinedBlackLists.txt
+https://github.com/vincentkenny01/spotblock/blob/master/file1
+https://github.com/vincentkenny01/spotblock/blob/master/file2
+https://github.com/vincentkenny01/spotblock/blob/master/test
+https://github.com/Pannine/easylists-for-pihole/blob/master/easyprivacy.txt
+https://github.com/Pannine/easylists-for-pihole/blob/master/easylist.txt
+https://github.com/kaldevo/blacklist/blob/master/hosts
+https://github.com/acvigue/pihole-blocklists/blob/master/pihole_adt.txt
+https://github.com/vitallized/pihole/blob/master/hosts.txt
+https://github.com/fabiotp91/Blocklist/blob/master/blocklist.txt
+https://github.com/patrickrbecker/JS-miner-blocking/blob/master/block-list
+https://github.com/velvetunder/piholed/blob/master/disconnect.txt
+https://github.com/velvetunder/piholed/blob/master/Malwaredomainlist.txt
+https://github.com/Verifirs/raspihostblock/blob/master/raspihostblock
+https://github.com/designator854/pihole2m/blob/master/2m.list
+https://github.com/designator854/pihole2m/blob/master/1m.list
+https://github.com/designator854/pihole3-4m/blob/master/3m.list
+https://github.com/designator854/pihole3-4m/blob/master/4m.list
+https://github.com/hermanjustinm/ad-blacklist/blob/master/referalblock.txt
+https://github.com/hermanjustinm/ad-blacklist/blob/master/blacklist.txt
+http://www.joewein.net/dl/bl/dom-bl-base.txt
+http://securemecca.com/Downloads/hosts.txt
+https://raw.githubusercontent.com/eladkarako/hosts.eladkarako.com/master/_raw__hosts.txt
+https://raw.githubusercontent.com/eladkarako/hosts/master/_raw__hosts.txt
+http://v.firebog.net/hosts/Airelle-trc.txt
+https://raw.githubusercontent.com/Firestorrrm/Minimal-Hosts-Blocker/master/iosadlist.txt
+https://pastebin.com/raw/sq81V4xz
+https://raw.githubusercontent.com/Marfjeh/coinhive-block/master/domains
+https://gist.githubusercontent.com/r0ckarong/36140c95bc105ee13cdc672baa940ab0/raw/87378f77179722c227b7813faddab53df6a38708/blacklist.txt
+https://github.com/Micraftz/PiHole-Blacklist/blob/master/zeroday.txt
+https://github.com/itsme2417/Blocklists/blob/master/Fuckbookblocklist.txt
+https://github.com/SherSlick/PiHoled/blob/master/hosts
+https://github.com/ElCap1tan/PiHole-Parsed-Filter-Lists/blob/master/lists/filters.host
+https://github.com/andromedastudios1/PiHoleAllListAndTelemetry/blob/master/allhosts.txt
+https://github.com/demollom/pihole-easylist/blob/master/adblock.txt
+https://github.com/xlimit91/xlimit91-block-list/blob/master/List.txt
+https://github.com/Soundsphere/customblocklists/blob/master/customhosts.txt
+https://github.com/MaxPms/PiHole/blob/master/wildcardblocking.txt
+https://github.com/mcuix/piholefacebook/blob/master/pihole-facebook-sponsored-ads.txt
+https://github.com/mcuix/piholefacebook/blob/master/youtube-ads.txt
+https://github.com/relishgargler/pihole_hosts/blob/master/ad_servers.txt
+https://github.com/sawicky/piholeblacklist/blob/master/hosts.txthttps://github.com/CrashKnight/PiHole-Block/blob/master/hosts
+https://github.com/Pandry/PiHoleBlackhole/blob/master/hosts.txt
+https://github.com/guilhermednt/pihole-lists/blob/master/shaddy-stores
+https://github.com/guilhermednt/pihole-lists/blob/master/ecomerce-plugins
+https://github.com/TakoYachty/Gift-Card-Killer/blob/master/Thieus%20Hosts%20Spotify.txt
+https://github.com/TakoYachty/Gift-Card-Killer/blob/master/Untrusted%20Hosts%20Blocker.txt
+https://github.com/VanTahvo/Pihole_blacklists/blob/master/blacklist.txt
+https://github.com/w13d/adblockListABP-PiHole/blob/master/list.txt
+https://github.com/jayjay-a/pihole-lists/blob/master/blacklist.txt
+https://github.com/Th3M3/blocklist/blob/master/hosts
+https://github.com/GunayAnach/adblock/blob/master/domains/adblock.txt
+https://github.com/GunayAnach/adblock/blob/master/domains/blacklist.txt
+https://github.com/GunayAnach/adblock/blob/master/domains/licensingserver.txt
+https://github.com/gitty8/pihole-lists/blob/master/streaming_vzrlp-blocklist
+https://raw.githubusercontent.com/littlejak20/pihole-block/master/ytadblock.txt
+https://raw.githubusercontent.com/littlejak20/pihole-block/master/genadblock.txt
+https://raw.githubusercontent.com/littlejak20/pihole-block/master/gentrackblock.txt
+https://raw.githubusercontent.com/littlejak20/pihole-block/master/streamblock.txt
+https://github.com/ffidan61/piholelists/blob/master/adblockeasy.txt
+https://github.com/ffidan61/piholelists/blob/master/youtube
+https://github.com/kenny1har/pihole-indonesia/blob/master/list.txt
+https://github.com/CamelCase11/UnifiedHosts/blob/master/hosts.all

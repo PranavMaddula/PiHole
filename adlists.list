@@ -52,7 +52,6 @@ http://www.malwaredomainlist.com/hostslist/ip.txt
 http://sanyalnet-cloud-vps.freeddns.org/blocklist.txt
 http://sanyalnet-cloud-vps.freeddns.org/mirai-ips.txt
 http://sanyalnet-cloud-vps2.freeddns.org/blocklist.txt
-
 ##pfSense Blocking Recomendations : General Domain BlockList
 https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt
 http://www.malware-domains.com/files/justdomains.zip
@@ -236,15 +235,15 @@ https://raw.githubusercontent.com/reek/anti-adblock-killer/master/anti-adblock-k
 https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-social/hosts
 https://raw.githubusercontent.com/StevenBlack/hosts/master/data/SpotifyAds/hosts
 https://raw.githubusercontent.com/StevenBlack/hosts/master/data/tyzbit/hosts
-https://zerodot1.gitlab.io/CoinBlockerLists/hosts 
-https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser 
-https://zerodot1.gitlab.io/CoinBlockerLists/hosts_optional 
-https://zerodot1.gitlab.io/CoinBlockerLists/MiningServerIPList.txt 
-https://zerodot1.gitlab.io/CoinBlockerLists/list.txt 
-https://zerodot1.gitlab.io/CoinBlockerLists/list_browser.txt 
-https://zerodot1.gitlab.io/CoinBlockerLists/list_optional.txt 
-https://zerodot1.gitlab.io/CoinBlockerLists/list_browser_UBO.txt 
-https://zerodot1.gitlab.io/CoinBlockerLists/white_list.txt 
+https://zerodot1.gitlab.io/CoinBlockerLists/hosts
+https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
+https://zerodot1.gitlab.io/CoinBlockerLists/hosts_optional
+https://zerodot1.gitlab.io/CoinBlockerLists/MiningServerIPList.txt
+https://zerodot1.gitlab.io/CoinBlockerLists/list.txt
+https://zerodot1.gitlab.io/CoinBlockerLists/list_browser.txt
+https://zerodot1.gitlab.io/CoinBlockerLists/list_optional.txt
+https://zerodot1.gitlab.io/CoinBlockerLists/list_browser_UBO.txt
+https://zerodot1.gitlab.io/CoinBlockerLists/white_list.txt
 https://zerodot1.gitlab.io/CoinBlockerLists/white_list_IPs.txt
 https://v.firebog.net/hosts/static/SamsungSmart.txt
 #TSPPRS
@@ -612,3 +611,33 @@ https://justdomains.github.io/blocklists/lists/easylist-justdomains.txt
 https://justdomains.github.io/blocklists/lists/easyprivacy-justdomains.txt
 https://justdomains.github.io/blocklists/lists/adguarddns-justdomains.txt
 https://justdomains.github.io/blocklists/lists/nocoin-justdomains.txt
+https://github.com/SweetSophia/mifitxiaomipiholelist/blob/master/mifitblocklist.txt
+https://github.com/newbie0815/piholeblocklist/blob/master/block.txt
+https://github.com/kreisklasse/myPiholeBlacklist/blob/master/kkblacklisttest.txt
+https://github.com/kreisklasse/myPiholeBlacklist/blob/master/kkblacklist.txt
+https://github.com/alex1985D/pihole-windows-mobile-hosts/blob/master/malware-domains.txt
+https://github.com/alex1985D/pihole-windows-mobile-hosts/blob/master/youronlinechoices.txt
+https://github.com/dead-hosts/polish-pihole-filters_git_MajkiIT/blob/master/output/domains/ACTIVE/list
+https://github.com/dead-hosts/polish-pihole-filters_git_MajkiIT/blob/master/output/domains/INACTIVE/list
+https://github.com/crazy-max/WindowsSpyBlocker/blob/master/data/hosts/extra.txt
+https://github.com/crazy-max/WindowsSpyBlocker/blob/master/data/hosts/spy.txt
+https://github.com/crazy-max/WindowsSpyBlocker/blob/master/data/hosts/update.txt
+https://www.squidblacklist.org/downloads/dg-ads.acl
+https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
+https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
+https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
+https://www.squidblacklist.org/downloads/dg-malicious.acl
+https://github.com/XionKzn/PiHole-Lists/blob/master/Blocklist.txt
+https://github.com/XionKzn/PiHole-Lists/blob/master/OpenDNS_Block_list.txt
+https://github.com/XionKzn/PiHole-Lists/blob/master/PiHole%20Block-Lists%20List.txt
+https://github.com/XionKzn/PiHole-Lists/blob/master/PiHole_Custom_Block_List_Home.txt
+https://github.com/XionKzn/PiHole-Lists/blob/master/PiHole_HOSTS_Spyware.txt
+https://github.com/XionKzn/PiHole-Lists/blob/master/Quad9.txt
+https://github.com/vincentkenny01/spotblock/blob/master/blacklist
+#### Here you can find my used blocking URL lists, which I use in my PiHole
+#### 2018-11-2018
+https://raw.githubusercontent.com/littlejak20/pihole-block/master/genadblock.txt
+https://raw.githubusercontent.com/littlejak20/pihole-block/master/gentrackblock.txt
+https://raw.githubusercontent.com/littlejak20/pihole-block/master/streamblock.txt
+##https://v.firebog.net/hosts/lists.php?type=tick (this is a test)
+https://github.com/timocapa/pihole-list/blob/master/EtherAddressLookup

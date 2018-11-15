@@ -1399,23 +1399,18 @@ wns.notify.windows.com.akadns.net
 settings.data.microsoft.com
 onedrive-onerm-events-primary-cus.servicebus.windows.net
 fafsa.gov
-fullstory.com
 ntservicepack.microsoft.com
 pool.ntp.org
 sadmin.brightcove.com
 privacy-policy.truste.com
 validation.sls.microsoft.com
-www.sandboxie.com
 www.pinterest.com
 login.windows.net
-www.xvideos.com
 phobos.apple.com
-nickjr.com
 att.com
 update.microsoft.com
 p.sfx.ms
 mirror.centos.org
-pipedream.wistia.com
 storage.msn.com
 watson.telemetry.microsoft.com
 omextemplates.content.office.net
@@ -1424,9 +1419,6 @@ groups.photos.live.com
 favorites.live.com
 ocos-office365-s2s.msedge.net
 bestbuy.com
-youporn.com
-www.
-solarcity.com
 airdownload.adobe.com
 pbskids.org
 costco.com
@@ -1449,7 +1441,6 @@ us8.campaign-archive1.com
 bbystatic.com
 download.cnet.com
 download.microsoft.com
-po.st
 hentaihaven.org
 albert.apple.com
 dell.com
@@ -1461,7 +1452,6 @@ swcdn.apple.com
 pisces.bbystatic.com
 www.wingstop.com
 mtu1280.test-ipv6-ct.comcast.net
-www
 email.vudu.com
 origin.com
 onedrive-collection.device.mobileengagement.windows.net
@@ -1473,7 +1463,6 @@ templateservice.office.com
 init.itunes.apple.com
 humblebundle.imgix.net
 passport.net
-s{1..5}.symcb.com
 gateway.push-apple.com.akadns.net
 validation-v2.sls.microsoft.com
 mixpanel.com.edgekey.net
@@ -1488,8 +1477,6 @@ pubsub1.cloud.symless.com
 pubsub.cloud.symless.com
 symless.com
 jcpenney.com
-www.aws.training
-cdn.aws.training
 homedepot.com
 oneclient.sfx.ms
 nerdist.com
